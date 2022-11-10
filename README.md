@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tesla coils, high voltage, Solenoid engines, retro comupting. 
 - 🌱 I'm here to post some of my sub standard code musings as payback for all the code ive used over the years.
 - 💞️ I’m looking to collaborate on, eeerrm, well, nothing much, I tend to be a bit of a loner.
-- 📫 How to reach me -> twitter @extelec or @extkits 
+- 📫 How to reach me -> twitter @extelec or @extkits or @Extelec@mstdn.social
 
 <!---
 ExtremeElectronics/ExtremeElectronics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
